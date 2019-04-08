@@ -1,0 +1,17 @@
+name: security_keyboard
+description: A flutter security keyboard for multiple TextField and automatically positioned to the TextField position.
+version: 1.0.2
+author: cy<277495910@qq.com>
+homepage: https://github.com/cy20061121/security_keyboard
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
